@@ -2,6 +2,7 @@
 A VPN provider made with sausages.
 
 Connect to one of our websites to get retrieve your configuration:
+
 | Country      | Website                                |
 | ------------ | -------------------------------------- |
 | England      | [uk.sudvpn.net](https://uk.sudvpn.net) |
