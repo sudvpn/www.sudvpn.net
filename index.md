@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Connect to one of our websites to get retrieve your configuration:
+Connect to one of our websites to retrieve your VPN configurations:
 
 | Country      | Website                                |
 | :----------- | :------------------------------------- |
